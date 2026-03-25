@@ -1,2 +1,2 @@
 # crud
-Edvaldo Rodrigues, 14, 3F - DS
+Amanda Alves Rossi, 02, 3F - DS
